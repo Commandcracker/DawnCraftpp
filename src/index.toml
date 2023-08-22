@@ -117,10 +117,6 @@ file = "config/Obscuria/aquamirae-client.toml"
 hash = "fbc160ef6c6c0ca4087611a5a6e6c9064d088c59b69ab0bc5f979688fec9a1d7"
 
 [[files]]
-file = "config/Obscuria/aquamirae-common-1.toml.bak"
-hash = "6e6c43d4a7c0fe96fd94231000ae5c765d960244fc66c5e79ef512c189148270"
-
-[[files]]
 file = "config/Obscuria/aquamirae-common.toml"
 hash = "1daeebfae01273c0fc73cb8f8af16e100e6683fbfb8f3c015958ecd0a4d5e895"
 
@@ -866,11 +862,7 @@ hash = "cd722f1cee1b0958182ac1fc1a71083789fb66151f4ce48292a2570b648dfaaa"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "688c9a5fbb052cc4ca5ea96818ba80435f2f30fbd685ec8e496dd84858e02dec"
-
-[[files]]
-file = "config/bcc-common.toml.bak"
-hash = "6fe96beceae46a1698bafd1aa44d5edff974cef7448a203b4c497aae1d427136"
+hash = "a0fd3f2b415e5bbd54ae7fccd0b8c373c8f9ba5ba7e140658f1363dc63e94904"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_18_2.toml"
@@ -993,10 +985,6 @@ file = "config/bloodandmadness-common.toml"
 hash = "da5eaf0b5d7f876060edf54a05973aea88a44126ecac95c6b402f92af8212b9d"
 
 [[files]]
-file = "config/blue_skies-client-1.toml.bak"
-hash = "d32b06c31421f969e6add4d4dff2bf2443a42a11125a02410d29f4c90073f6ff"
-
-[[files]]
 file = "config/blue_skies-client.toml"
 hash = "d32b06c31421f969e6add4d4dff2bf2443a42a11125a02410d29f4c90073f6ff"
 
@@ -1090,7 +1078,7 @@ hash = "bbefd4390a4615efcbfe6e4f3dd40268f5253f4f0d1d7832f725c3f91a515efd"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "fd0a6f2002913f80572b666897bd280186e2b842e775a470cab0ceb5bc058414"
+hash = "46384ad53dcadee4c8fb01718a039e43f960a2a7d153e26bb8792a9b1bbba4f4"
 
 [[files]]
 file = "config/create-client.toml"
@@ -1317,10 +1305,6 @@ file = "config/enchantlimiter-common.toml"
 hash = "caa97ad6235204456ce13742d67868e648de89aa046c609f6d699458c2b93004"
 
 [[files]]
-file = "config/enchantlimiter-common.toml.bak"
-hash = "d0263eb4e0bc7c184a21bd57d26384775dace680966fe42e9f08b089124051e9"
-
-[[files]]
 file = "config/enchantwithmob-client.toml"
 hash = "fa8d6e9079543a5a2e653edd941a8a60fa94219f999d0a809957644c68e0edee"
 
@@ -1394,7 +1378,7 @@ hash = "57593ac22df771e7ed941c2da70987799fdfc6bc0c77bff173f82b6b03d3f560"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "2a7f574a40da1bbd4a1fbd31bb036414b3bf1799675c029913cbec70c7d18aa3"
+hash = "ecd92982a43c19ea987ca4640ba4414759ffee5f8bcbb951e53aa04d1d2a1b95"
 
 [[files]]
 file = "config/fancymenu/customguis/serverhelp.txt"
@@ -2033,10 +2017,6 @@ file = "config/nyfsquiver-client.toml"
 hash = "e51321f581d0e15d2a2a0bdce2cc78024eaa5c7bc8ddcadd99a4f1ae0301e29c"
 
 [[files]]
-file = "config/nyfsquiver-common-1.toml.bak"
-hash = "1a73200946eb967ea4f8d3c9384fd6d4a605ad483746fc3ba038971a74e57190"
-
-[[files]]
 file = "config/nyfsquiver-common.toml"
 hash = "1a73200946eb967ea4f8d3c9384fd6d4a605ad483746fc3ba038971a74e57190"
 
@@ -2337,10 +2317,6 @@ file = "config/radium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
-file = "config/reputation/client-1.toml.bak"
-hash = "a9b6e830e9c70fc385407d44f56567f445ef9e1773fa2212821d8c780877903a"
-
-[[files]]
 file = "config/reputation/client.toml"
 hash = "a9b6e830e9c70fc385407d44f56567f445ef9e1773fa2212821d8c780877903a"
 
@@ -2505,10 +2481,6 @@ file = "config/strawgolem.ini"
 hash = "df43aaeff9867cafe3f8764ee91fca9726157fc273ac329e8fc1706f29b02d1e"
 
 [[files]]
-file = "config/structure_gel-client-1.toml.bak"
-hash = "afeac3bf2f4188ab621b298237f725ec728bd925f5475d99246948cd30bacbb4"
-
-[[files]]
 file = "config/structure_gel-client.toml"
 hash = "afeac3bf2f4188ab621b298237f725ec728bd925f5475d99246948cd30bacbb4"
 
@@ -2603,26 +2575,6 @@ hash = "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a"
 [[files]]
 file = "config/visuality/particle_emitters/entity/hit.json"
 hash = "b2f592766faf5a914c4eaff02e5ec99ab5041a03ed6aa91b891ab62c2f88781c"
-
-[[files]]
-file = "config/waterdripsound-client-1.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-2.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-3.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-4.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-5.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 
 [[files]]
 file = "config/waterdripsound-client.toml"
@@ -12765,8 +12717,24 @@ file = "global_packs/required_data/witch-raids-1-18-v-1-1/pack.png"
 hash = "d4a0a53efedb155a31e8c31319f4a0d21abc69e24ce4a6bf37a91a67c2dc6ad0"
 
 [[files]]
-file = "icon.png"
-hash = "15fa4db7913d9e4bfdc444859c24a4722468f421c5b88569fc799969877c1a9a"
+file = "mods/BrassAmberBattleTowers-1.18.2-2.3.12.jar"
+hash = "078a01a68bb7a9270763fe6c909f9818ee6965be8821561a848e9ebd93a2b3ec"
+
+[[files]]
+file = "mods/ClaimChunk-1.18-1.0.17.jar"
+hash = "fa1a9b160bee26fe5202a8e1561de39cd0aa1c5cce8a4e16371b58035153bd92"
+
+[[files]]
+file = "mods/Quest_Giver-1.18.2-1.0.10.jar"
+hash = "aec5d1132798b1b2bf198ee7a30e8eddeb7f3702caf8ce2fde77313569c5a2e4"
+
+[[files]]
+file = "mods/Structory-1.18.2-1.0.2.jar"
+hash = "d9513ec7fbfa96215096bee2dca8abb8838603bad32ecba348b109133fca1e77"
+
+[[files]]
+file = "mods/Villager Comfort-1.18.2-1.0.1.jar"
+hash = "4d83eb16b73758c54925bbf7026899fa5b04d2ddb2969ea0c43b9294ec9c2f9c"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
@@ -12954,11 +12922,6 @@ hash = "b63bb4d8164898ff981895c2b6d58b4b77c624d5dca15220278aa39d4c847100"
 metafile = true
 
 [[files]]
-file = "mods/brassamberbattletowers.pw.toml"
-hash = "3c5994d11f3a485491f67fd235fddb42a2e3bbbea92a12170cc8ce7297acde4b"
-metafile = true
-
-[[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "4b22ce489a7b757af9c9b40432cc19f6ab1fe0fef710db13a8d2077f2f8a3d95"
 metafile = true
@@ -12996,11 +12959,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
-metafile = true
-
-[[files]]
-file = "mods/claim-chunk.pw.toml"
-hash = "87c6741b4e94188a21d2917009aee8f9576f5bf789f6da7aa141fb4bbbe92cfa"
 metafile = true
 
 [[files]]
@@ -13089,14 +13047,13 @@ hash = "c9277de09e689278418c85eb2f7e804a2caac8667bf2a225e5a0aa182da2a503"
 metafile = true
 
 [[files]]
-file = "mods/dawncraft-mobs.pw.toml"
-hash = "5ca584ad766bb12655523629180afd84843a3167d90ab4af386dc6e64e4e24e9"
-metafile = true
-
-[[files]]
 file = "mods/dawncraft-tweaks.pw.toml"
 hash = "dc7cdf850b567352f82fc7c3336f06dad8a9e8395d36eb5bdfaeb74caa52b893"
 metafile = true
+
+[[files]]
+file = "mods/dawncraft_mobs-1.18-0.9.8d.jar"
+hash = "e9172e92fefd3a27985017f4b05670cbc2a8ea10c5669736ebb3f7577af2ef70"
 
 [[files]]
 file = "mods/death-backup.pw.toml"
@@ -13359,9 +13316,8 @@ hash = "c685d5c9a35c111c0661fc2fa0ccaf0f9c910c3fdfe02d1f1095cabd12d1308a"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
-metafile = true
+file = "mods/hexerei-0.2.2.jar"
+hash = "e05e05d76b720e15a62425fe74b32552753ce973423d1c1cdb9fed3b2ee642c8"
 
 [[files]]
 file = "mods/hit-indication.pw.toml"
@@ -13525,7 +13481,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
-hash = "179de6180653ff93abb091b60569b0860c3b74d7197f7af8cc4f4547aa3dc128"
+hash = "b86d39f947be84f146135e741be2dcdb2e79a52bd26c64eeed4da326f3e4c3ca"
 metafile = true
 
 [[files]]
@@ -13774,11 +13730,6 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
-file = "mods/quest-giver.pw.toml"
-hash = "aa7ca6e0d7493dd288dfddfb275a21afae91636eb7c475db686de8212825eee1"
-metafile = true
-
-[[files]]
 file = "mods/reauth.pw.toml"
 hash = "c3777d9544a0d36f4b5ee1a3404348459aea4d91e1c79ef39df86f2cbc53ec3c"
 metafile = true
@@ -13929,11 +13880,6 @@ hash = "7194629bae1065be5959d72a846458af7f369dabd453eb18b53c65cb839551dd"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
-metafile = true
-
-[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
@@ -14036,11 +13982,6 @@ metafile = true
 [[files]]
 file = "mods/unvoted-shelved.pw.toml"
 hash = "a33fea2f20c9bfceacfb4db4ab2d9227953635443b015e10cd7d8fbcf3116767"
-metafile = true
-
-[[files]]
-file = "mods/villager-comfort.pw.toml"
-hash = "8ae95172fdd4f00a54dc7fcb424993e28afdae4778955ca043be2defa25347d6"
 metafile = true
 
 [[files]]
@@ -14155,6 +14096,10 @@ file = "resourcepacks/IORR +Terralith Legacy v3.0.zip"
 hash = "be76e10e5a4be0c848cd1c702892e82108897dbedb443d53a2d6d40398134453"
 
 [[files]]
+file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
+hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
+
+[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
@@ -14164,12 +14109,7 @@ hash = "a6c53ed84a931777c1de696e2cf6687df66f13ae6060fb9cf0472a9815dd2ce7"
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
-hash = "e9d4eeed1e0538e21e5babf226e54c5ca13d479a5da768daa7aeb00095684b73"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "a1e1317a225bfb0a8396bb4399ec62682d380d868de222c12c1ed2417aca3853"
+hash = "a1d4129a0b2fb70029e1011ee36973a727ff7be0028c58a5e706499e2f73e501"
 metafile = true
 
 [[files]]
@@ -14178,13 +14118,8 @@ hash = "9091f260646bdb7e9204bde7fedd43f6e7ef73b4d03d04317d15873159204574"
 metafile = true
 
 [[files]]
-file = "resourcepacks/created-storage-network.pw.toml"
-hash = "c2ee23b24428948a04d0b367a1facd3553356061543c31cf6f9c62eb228cac34"
-metafile = true
-
-[[files]]
 file = "resourcepacks/embellished-stone-advancement-plaques.pw.toml"
-hash = "d358f5937169d1f58203e7aa07aa0ad32be7be53dd02813855bda74524737cef"
+hash = "1e4e1122d786635d2d7e7fddf8e4534c6da5274e7fe77980066b35a2c9a26977"
 metafile = true
 
 [[files]]
@@ -14194,17 +14129,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/epic-fight-animations.pw.toml"
-hash = "b1d137fc78ee4c59f90c5d6086cf17aaa55bc167b0154c4cc744ac5ec2434ee1"
+hash = "a0a8c5be7c155fd17c64e8a003a8713754495003d8fffcf185fcefe5e0aefcb5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/excalibur-mod-support.pw.toml"
-hash = "cd14576fb43496ec404b1a1ba9c606bd14efad564a6f81e291b98b2a0cf83768"
+hash = "627f075df22280c18019670d1c8836d28e5a39d78444ba87cd85d16b655f28a9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/excalibur.pw.toml"
-hash = "64b79cf73407c1ee40e82ce14bd4ec99999c9f467445a30157305a6128c3d8f9"
+hash = "d48238da3114ac8461c703dbaed7d6b1becbbb578f937943e271ff5c25850472"
 metafile = true
 
 [[files]]
@@ -14217,40 +14152,40 @@ hash = "1daf9c27a95824140e932515d5ad5e844bfc4478c23fc8d4795521014768cc4f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "7ed0af45fa1ea6c69a3cabf1e46ec3675b0fd49dc7f73ac0ae37433382888912"
+hash = "19945f8f3ecabeca81b5feb5356d5661bc2a20cf0e6b2804dc7a6d41f05ad49c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "d421c9a202da84bd94bd32a05abd63274def6510cc5a50efc6993c6b75ffe7e6"
+hash = "7e356310de1b902d130b256027d77073b4b913c2d5bcef84da50d0820748fec2"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-extrem.pw.toml"
-hash = "b4e9b2b3e0f17ba80b6df64dbeeacf1f4d9dca3476691818ca51c3d0aa955957"
+hash = "822409f3eff4958a8afba7ab62c45fe2d6e72d237001687ddcc64a32e95171c3"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-extreme-vl.pw.toml"
-hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
+hash = "e801428623f6cae71313e9877cc1acecd994e389aef67fd9e7b679b122683c65"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-high-mb.pw.toml"
-hash = "47ae2c01616513017d9c69977e20c7fa9232f183b67c89025727c8d8b3cab2b4"
+hash = "bfb94389bee92962e53a76d161ad6ca277af4d39f7a7b077084a9933ba20b69d"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-high.pw.toml"
-hash = "888be6f6fa76728fd7b4cee8035eba4edb6ca8b77cd56d8279fcece1103c43cb"
+hash = "7365d856e9538478a2ee3f4a702a7f322e19323b193303a1ae8fb2cc511c4c3f"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-lite.pw.toml"
-hash = "7d6026d384fcb8afd7f71cda6832828b3c9f2b15e788c89a2c6770d98ac80619"
+hash = "0e63703688c9a2142ad20e35b6bce672c4a9f6d30d55b177d6d816b88aed8643"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-medium.pw.toml"
-hash = "54cf1726873568bad7a4461653371e3b47dc5ad5d7a7a2d1b9417280c43cb068"
+hash = "d60aac8eead8c0311127df38c32670fb506fa5a9c1e040f9bfeedd388674ff68"
 metafile = true
