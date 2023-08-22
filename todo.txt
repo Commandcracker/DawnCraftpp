@@ -1,0 +1,12 @@
+AdvancementPlaques # has server feature (for sound ?)
+betterstats # has server feature
+CTM ? will it break ?
+CullLessLeaves-Reforged ? will it break ?
+deathbackup ? maby but alos cool for server ?
+ftb-essentials # missing on server ?
+HealthOverlay # update ?
+konkrete_forge # will break ?
+
+
+client
+CraftPresence is DISCORD RPC

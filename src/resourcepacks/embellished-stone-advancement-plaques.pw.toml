@@ -1,6 +1,6 @@
 name = "Embellished Stone (Advancement Plaques)"
 filename = "EmbellishedStone-1.18-1.0.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
