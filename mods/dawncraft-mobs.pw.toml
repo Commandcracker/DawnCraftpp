@@ -1,0 +1,13 @@
+name = "DawnCraft Mobs"
+filename = "dawncraft_mobs-1.18-0.9.8d.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1cc5b483578aac97b6298d5711d22b1277f7f5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4699024
+project-id = 831982

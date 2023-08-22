@@ -1,0 +1,7 @@
+
+[stamina]
+	#Paragliding and ascending will consume stamina.
+	paraglidingConsumesStamina = true
+	#Actions other than paragliding or ascending will consume stamina.
+	runningAndSwimmingConsumesStamina = true
+

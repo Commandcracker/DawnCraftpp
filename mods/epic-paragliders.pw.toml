@@ -1,0 +1,13 @@
+name = "Epic Paragliders"
+filename = "epicparagliders-0.2.0-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79505c7c3b1cc7c4ea736badbad2fe95e2e115b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4708257
+project-id = 888068
