@@ -1,6 +1,6 @@
 name = "Create: ComputerCraft"
 filename = "Create Computers 1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

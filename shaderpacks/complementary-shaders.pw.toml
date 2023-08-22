@@ -1,6 +1,6 @@
 name = "Complementary Shaders v4"
 filename = "ComplementaryShaders_v4.7.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
