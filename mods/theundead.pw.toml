@@ -1,0 +1,13 @@
+name = "THE UNDEAD REVAMPED"
+filename = "THEUNDEADREVAMPED_0.8c_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e1ddd282111363f4be6330a88526e5e39108146"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4712316
+project-id = 479710

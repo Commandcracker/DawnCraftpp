@@ -1,0 +1,37 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = Why is it taking so long to join a server?
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=55%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  description = Why is it taking so long to join a server?
+  label = ?
+  loopbackgroundanimations = true
+  x = 7
+  width = 20
+  actionid = 0d26ec3b-9ac5-4644-99cc-1d9f75b91d4b1667307526410
+  action = addbutton
+  y = 7
+  value = serverhelp
+  height = 19
+}
+

@@ -1,0 +1,13 @@
+name = "Sildur's Vibrant shaders"
+filename = "Sildur's Vibrant Shaders v1.51 Medium.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d672c60422800a295a8c20390cf5b79c3b9dbb7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4688977
+project-id = 544096

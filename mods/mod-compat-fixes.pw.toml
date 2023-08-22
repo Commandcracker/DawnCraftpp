@@ -1,0 +1,13 @@
+name = "Mod Compat Fixes"
+filename = "dawncraft-fixes-0.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "449ba8af5ce2f002a06501b7da5b12925fb1a189"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594727
+project-id = 847273

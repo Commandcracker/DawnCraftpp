@@ -1,0 +1,13 @@
+name = "Hit Indication"
+filename = "hitindication-1.18.2-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b715b96b653e513cc126b79d23d04c2ba2d05161"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4691944
+project-id = 848933

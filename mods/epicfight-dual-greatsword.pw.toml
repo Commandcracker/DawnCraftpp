@@ -1,0 +1,13 @@
+name = "Epicfight - Dual GreatSword"
+filename = "DualGreatsword-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a4c3e163436bcb00c91101dfea90b2ef43e81e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3972299
+project-id = 654098
