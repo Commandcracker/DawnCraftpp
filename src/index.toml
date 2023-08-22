@@ -1146,7 +1146,7 @@ hash = "33f885597d44192fb96c7b1e1fafbdb757375e2a21f3060b7299fc912f5a5cd3"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "aa9868fc70bb3f75d70c60c95ea44c2fafde214734a3d745c3682015268c8d11"
+hash = "774aa8c59d359b52d38b72e7c1dba4e9676440198e4342b68ebffcd74adf86cd"
 
 [[files]]
 file = "config/deleteitem-common.toml"
@@ -2330,7 +2330,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "a907f8c5cfee8cdc7ec1ff9cbfeb5a9d1cb75c5c96197d916299b95b33fa4f91"
+hash = "62c858eff9d10e2feb6e183ee3c5e9798d7921ddab3a7598413bf32af5f86230"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
