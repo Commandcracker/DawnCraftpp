@@ -1,0 +1,13 @@
+name = "Horse Expert"
+filename = "HorseExpert-v3.0.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb1657b87080413279e5f7acc985e56ad7979138"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4710603
+project-id = 666942

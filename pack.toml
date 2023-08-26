@@ -1,11 +1,11 @@
 name = "DawnCraft++"
-version = "1.0.1-1.28_f2"
+version = "1.1.0-1.28_f2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b0142b28c64525d11d8a5e2138b9a46af09bf4902d0a9eb07bdf9d68d8af696"
+hash = "4fbf5d1ca47a217ff4d7a33c4e5c0055d5f7fb23812fc1e864b3100ecab198f2"
 
 [versions]
 forge = "40.2.10"
