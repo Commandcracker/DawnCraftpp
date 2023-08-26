@@ -862,7 +862,7 @@ hash = "cd722f1cee1b0958182ac1fc1a71083789fb66151f4ce48292a2570b648dfaaa"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a0fd3f2b415e5bbd54ae7fccd0b8c373c8f9ba5ba7e140658f1363dc63e94904"
+hash = "d7996e7188f0c0ea8f35da498e1cd3e628938d8e47b08ffad80adf0f4c401502"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_18_2.toml"
@@ -12887,6 +12887,11 @@ hash = "08c32a338dd50c3ee9de99930179cca5101c7683205c5e719be25b7a12ec3ec4"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "9621ff6d493afb40e2368e13922857e3e0cb0a3b98bc7bb97e2f9deef1c90617"
+metafile = true
+
+[[files]]
 file = "mods/bettergolem.pw.toml"
 hash = "f0eeb4f5a192e5c6b1cd18e7a3d4206faf824fd7c42aba13080ab402a07ab418"
 metafile = true
@@ -12937,6 +12942,11 @@ hash = "06e8a64dad54c88c67eda42907b09625ef090af22fbab9c0c83e0e22161ee574"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "caf5e99683ec2717b4e1feeb120f96db119a6eea1d5f1d7aca9ea04079f8e447"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "9d4e075259bb040795c2e83d0db124f6924e7831e9e344dc738fdd32e5111ee8"
 metafile = true
@@ -12944,6 +12954,11 @@ metafile = true
 [[files]]
 file = "mods/champions.pw.toml"
 hash = "c441d3d39f1abd18ffbe9c187b91dde1edf421513cf493ffef9bc33a960f36c2"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "e7ebacbe9b1e9e28435942df0856e8a6ec8355462058afd846a02e28d6e7ee46"
 metafile = true
 
 [[files]]
@@ -12964,6 +12979,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "dd37f8dd2520e55ca2d3c85d92de682c31e4fdedea64a090bca80e1f0d3fd80a"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "a976020b14b54af93fce4c3a6ee46dd63847d43c0b94ea458d04fabe1c1b8534"
 metafile = true
 
 [[files]]
@@ -12993,7 +13013,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "13dd0a7896dc73eff53b1227c121cf23e96ad7e0ae803478d438158bfa8357fc"
+hash = "87fd40a08129dd8d2b9b4ac017c572b18cab7278a5d28165e62476d509830aa9"
 metafile = true
 
 [[files]]
@@ -13176,6 +13196,11 @@ hash = "c75c27fe09b45ffa34eb76a7e6967a963eabf9d1051b58a0bb03d55229c432ff"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "2dadc536704b5b1ef32028a4fcb44d3cfc4aa1b49824324d918893d5156c1a81"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "f3879c7f8e075e1474c6a0da9b5c13696ba8aeb28e555eea6d3ceb3108c5cd85"
 metafile = true
@@ -13325,6 +13350,11 @@ hash = "59f49fde2514cc9f7993a816e0c591f5520cf0b411d28ff7cddba26a147a96c8"
 metafile = true
 
 [[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "128a7196afac6276e9e96f95a537ac23c74086461e80296f5e94912611d2bc9d"
+metafile = true
+
+[[files]]
 file = "mods/human-companions.pw.toml"
 hash = "efc3726d01a41bb2febeee4b67775bec1c28de8acea176dca1de75de20fa0b33"
 metafile = true
@@ -13356,7 +13386,7 @@ metafile = true
 
 [[files]]
 file = "mods/improved-mobs.pw.toml"
-hash = "3b08cd087c095b69c287a066540448153cfce4c012c61958324ab392d41375c5"
+hash = "36d1bcb083f320c41fc8001458378083f9b86fab5ee52a46e2a70c4996350c5b"
 metafile = true
 
 [[files]]
@@ -13437,6 +13467,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "79c8d4d4d88a1a307b939ed38f34cfd0550380d276557af6a24ea16f264f148c"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
@@ -13522,6 +13557,11 @@ metafile = true
 [[files]]
 file = "mods/majruszs-progressive-difficulty.pw.toml"
 hash = "482cbd9a42a692c9282f8d6026be12d0b5a7d2b637a80c0e3c776da33cc6ccad"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "485e1aefa205baa57b29c54af2987257e06ef09516a32fb70759bbc700f2a337"
 metafile = true
 
 [[files]]
@@ -13720,6 +13760,16 @@ hash = "052bc95f3c6c30c56565fb0e982983077e6ff49a808d3818780de3bfedaf681d"
 metafile = true
 
 [[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "87df4e4a49a92cb2622ef33fae22f381340b2e6969b5a87a26a8b909fefa00e5"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "0258d7fd2cca346edd7a6652b8db0925cb13c9b6fc65726dbecfcacf4cdb32c6"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
 metafile = true
@@ -13740,6 +13790,11 @@ hash = "152127d60610c22dc973e4c1f943145eb8a79ffac49b042611f18e814fa05bd2"
 metafile = true
 
 [[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "f3f73f153c5b479553e86d6e50e969420379ed0019fa8fd83380963c4ca1f384"
+metafile = true
+
+[[files]]
 file = "mods/reputation.pw.toml"
 hash = "f2b3f3d2fad72acde9676b66ae86e9d3d84c42ba8a06956475a7f0b23ff91886"
 metafile = true
@@ -13751,7 +13806,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "96c189923da764902b6123f9e3ec05544966849023801b4f0e1ccca2286afaa3"
+hash = "7ed8b9d4543833c84d97c547175ef45c4fdc43b7e66cbfea512b0b5d12af226e"
 metafile = true
 
 [[files]]
@@ -13786,7 +13841,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "7cfcda9ba0dcba7d302f9ea1694e9a420b8e214b3094093d7ded6c5d4a3a6d92"
+hash = "c5ebf0fb867ab9cacccbb59e2cb891e5579098866e5a6bde63fe617b9b7ce12f"
 metafile = true
 
 [[files]]
@@ -13945,6 +14000,11 @@ hash = "a574cce7138f1022e44831a8f255a72b0e8866b544829c0a4e72d40771f6ae0b"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5beb03d52b7e600050191fca1694eae3d70622a3f02f9cf423bf8fcd4f5f6d26"
+metafile = true
+
+[[files]]
 file = "mods/tiny-skeletons-forge.pw.toml"
 hash = "e0a881ef9c106c136285f5c719657ffb4b8b804078ac54aca4398a949c4a796e"
 metafile = true
@@ -13985,6 +14045,16 @@ hash = "a33fea2f20c9bfceacfb4db4ab2d9227953635443b015e10cd7d8fbcf3116767"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-computers.pw.toml"
+hash = "f75a433059f1caf38c5548ea8949ecd24b717e7c14d2d2f47982aefdbdf50e84"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "9e678eb389661ec070d6adc97e423b6b3b7da876c738dd59ffe3c2d3d1b25489"
+metafile = true
+
+[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "cdf5daad96b4d993952ca5e660a8226b5754574edd5481461319c70944f2cf32"
 metafile = true
@@ -13992,6 +14062,11 @@ metafile = true
 [[files]]
 file = "mods/waterdripsound.pw.toml"
 hash = "6ca23c0629f596ea922718569ef68dbf3c28e4ecf4e6666c626d297770e1ae40"
+metafile = true
+
+[[files]]
+file = "mods/waveycapes.pw.toml"
+hash = "27baa412837114a9640db20a3efd9a5d03c4189c29a72251381dda12bd290006"
 metafile = true
 
 [[files]]
@@ -14162,30 +14237,30 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-extrem.pw.toml"
-hash = "822409f3eff4958a8afba7ab62c45fe2d6e72d237001687ddcc64a32e95171c3"
+hash = "eba89f3392d9d8ef4c65ee2740f095c2e094386531281a7b37102624468112fc"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-extreme-vl.pw.toml"
-hash = "e801428623f6cae71313e9877cc1acecd994e389aef67fd9e7b679b122683c65"
+hash = "19023a3913ba3075443fa7200d9500897e87d5add42c176226dab46dc6691f75"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-high-mb.pw.toml"
-hash = "bfb94389bee92962e53a76d161ad6ca277af4d39f7a7b077084a9933ba20b69d"
+hash = "27ea98f6cb570794e1adee080a922ef793345c33cf9f2609ba214c60a8055723"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-high.pw.toml"
-hash = "7365d856e9538478a2ee3f4a702a7f322e19323b193303a1ae8fb2cc511c4c3f"
+hash = "575f29c66ce8a4b19b4b18863b3086e304bd5b2c654fadb6023eb25b93913181"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-lite.pw.toml"
-hash = "0e63703688c9a2142ad20e35b6bce672c4a9f6d30d55b177d6d816b88aed8643"
+hash = "a0b140de60ffaf14966396526a298d0799c7ef80af57fd9a743f6c766aa568e2"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-medium.pw.toml"
-hash = "d60aac8eead8c0311127df38c32670fb506fa5a9c1e040f9bfeedd388674ff68"
+hash = "a3e76b9a017c966748dfed3db2499b737c7c254713f3462cec28e93274ee0563"
 metafile = true
