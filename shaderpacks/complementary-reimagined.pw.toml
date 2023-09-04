@@ -11,3 +11,12 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4682388
 project-id = 627557
+
+[option]
+optional = true
+default = false
+description = """Complementary Reimagined is a high quality Minecraft Java Edition shader pack that aims for perfection.
+Preserving the unique style of Minecraft, with options to customise everything ranging from clouds to water.
+Reimagined offers a ton of high quality effects, incredible attention to detail, an issueless experience, and top tier optimization.
+Trying to complement Minecraft in the best way possible, Reimagined aims to please everyone who loves Minecraft.
+There is no better summary for Reimagined other than that it is a shader pack that aims to be the ultimate choice."""
