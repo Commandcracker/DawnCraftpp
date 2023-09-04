@@ -862,7 +862,7 @@ hash = "cd722f1cee1b0958182ac1fc1a71083789fb66151f4ce48292a2570b648dfaaa"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d7996e7188f0c0ea8f35da498e1cd3e628938d8e47b08ffad80adf0f4c401502"
+hash = "95e1c13c67572caa059af4178bc4201edc5ac0609c4f7c6556883b388254a316"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_18_2.toml"
@@ -2591,6 +2591,11 @@ hash = "7bc676c19c5464a4a1f4e00a0e31f577628b9e601cf08b253a3a55577de7c098"
 [[files]]
 file = "config/wecui3.yml"
 hash = "d6ded02f9e97b7055d50331425efd85c6a6849df31aa4dbead0f0f705ee9551e"
+
+[[files]]
+file = "datapacks/epic-fight-tinkers-construct-compat.pw.toml"
+hash = "91a6d1afb0a49e76929a6ef7d1533652ea7d651ef1ad865289cbf41634c3f6c7"
+metafile = true
 
 [[files]]
 file = "defaultconfigs/champions-affixes.toml"
@@ -13550,6 +13555,11 @@ hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "fcafacd494ffd368b021af05851d225ac0054aea5dcd1003ac36987db79af622"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "acf166f1ec7cadd6febdd0b51e4988d8baa20c28171d187870ba4acafaa5f03a"
 metafile = true
@@ -14227,40 +14237,40 @@ hash = "1daf9c27a95824140e932515d5ad5e844bfc4478c23fc8d4795521014768cc4f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "19945f8f3ecabeca81b5feb5356d5661bc2a20cf0e6b2804dc7a6d41f05ad49c"
+hash = "a5fa4ea4f1b07581065e4694a946a4d7c6bfb7b52d34aee3bc62236ad7c37558"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "7e356310de1b902d130b256027d77073b4b913c2d5bcef84da50d0820748fec2"
+hash = "2662ffc1832d092c0b85c4b533872f2884e080e305915684ea5e4776d7624364"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-extrem.pw.toml"
-hash = "eba89f3392d9d8ef4c65ee2740f095c2e094386531281a7b37102624468112fc"
+hash = "c7fdbf632ae5eae0e458cf5d3cb70bba5c61ee43ff76f92ed98f016dbdc4e2f0"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-extreme-vl.pw.toml"
-hash = "19023a3913ba3075443fa7200d9500897e87d5add42c176226dab46dc6691f75"
+hash = "acfb385ce4b6976b2f13b5019717ee5378f527cb2e1090c298532bfb83ee8c9d"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-high-mb.pw.toml"
-hash = "27ea98f6cb570794e1adee080a922ef793345c33cf9f2609ba214c60a8055723"
+hash = "8d74ee3510f7020b9f75c5b62290fd65e105ad0957f7a5c66302e1af85c0166b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-high.pw.toml"
-hash = "575f29c66ce8a4b19b4b18863b3086e304bd5b2c654fadb6023eb25b93913181"
+hash = "1730d58bed05a7634a6103c876bbb529d1ff849dba294486b04713d5edc5a3d2"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-lite.pw.toml"
-hash = "a0b140de60ffaf14966396526a298d0799c7ef80af57fd9a743f6c766aa568e2"
+hash = "b417d8053e35e34c3b0294af861b72f22995362f941dd83e62d6c6a57d28b228"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders-medium.pw.toml"
-hash = "a3e76b9a017c966748dfed3db2499b737c7c254713f3462cec28e93274ee0563"
+hash = "7c8811f35274d97cb50e5fc17e727a8aa9ad6c98f24686cf414ed63a1507461b"
 metafile = true

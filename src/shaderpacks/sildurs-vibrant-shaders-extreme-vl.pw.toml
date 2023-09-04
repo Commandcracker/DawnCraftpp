@@ -1,4 +1,4 @@
-name = "Sildur's Vibrant shaders"
+name = "Sildur's Vibrant shader Extreme-VL"
 filename = "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip"
 side = "client"
 pin = true
@@ -12,3 +12,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4688989
 project-id = 544096
+
+[option]
+optional = true
+default = false
+description = "Vibrant shaders completly revamps the lighting system of minecraft and adds advanced effects like volumetric lighting, bloom, ambient occlusion and reflections. While still maintaining high performance and compatibility with many systems, like mac and intel gpus. It comes in different presets, medium or high should work fine on a gtx 960."

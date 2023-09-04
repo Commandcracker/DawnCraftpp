@@ -1,0 +1,13 @@
+name = "Epic Fight + Tinker's Construct Compat"
+filename = "epicFightTConstructCompat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "431c40aebae89e5a90dcb88d4c57ff89d85bcbaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4008245
+project-id = 681886
