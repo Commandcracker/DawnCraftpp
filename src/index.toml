@@ -858,7 +858,7 @@ hash = "904ad9d474e62d2e9be6eb736d2503d72ad0834109b9c5906660b3ff89d88749"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "58eb1303d338e6919be372655194042ce648c688101365377082036ac884b633"
+hash = "9fa86072e6067816109a201c7dac8f3186960e42901cc52af9268028bbe32ffa"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_18_2.toml"
@@ -15506,7 +15506,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei-0.2.2.jar"
-hash = "e05e05d76b720e15a62425fe74b32552753ce973423d1c1cdb9fed3b2ee642c8"
+hash = "447ab0757cdb57bf5a76b2e56f7cb1332481f3aa6880f27b8694ab10de48cda0"
 
 [[files]]
 file = "mods/hit-indication.pw.toml"
