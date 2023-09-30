@@ -1,6 +1,7 @@
-name = "Enlightend (Remake Coming..)"
+name = "Enlightend"
 filename = "enlightened-end-1.18.2-v4.0.0.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

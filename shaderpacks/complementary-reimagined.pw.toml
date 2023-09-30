@@ -1,22 +1,17 @@
-name = "Complementary Reimagined"
-filename = "ComplementaryReimagined_r2.3.zip"
+name = "Complementary Shaders - Reimagined"
+filename = "ComplementaryReimagined_r5.0.1.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "52b22faacbba8112206d6afd6019979030de031f"
+hash = "4879d9bbb16ff50ebb75b4b3e11b4093b76ae20d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4682388
+file-id = 4746339
 project-id = 627557
 
 [option]
 optional = true
-default = false
-description = """Complementary Reimagined is a high quality Minecraft Java Edition shader pack that aims for perfection.
-Preserving the unique style of Minecraft, with options to customise everything ranging from clouds to water.
-Reimagined offers a ton of high quality effects, incredible attention to detail, an issueless experience, and top tier optimization.
-Trying to complement Minecraft in the best way possible, Reimagined aims to please everyone who loves Minecraft.
-There is no better summary for Reimagined other than that it is a shader pack that aims to be the ultimate choice."""
+description = "Complementary Reimagined is a high quality Minecraft Java Edition shader pack that aims for perfection.\nPreserving the unique style of Minecraft, with options to customise everything ranging from clouds to water.\nReimagined offers a ton of high quality effects, incredible attention to detail, an issueless experience, and top tier optimization.\nTrying to complement Minecraft in the best way possible, Reimagined aims to please everyone who loves Minecraft.\nThere is no better summary for Reimagined other than that it is a shader pack that aims to be the ultimate choice."
