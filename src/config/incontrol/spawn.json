@@ -26,12 +26,12 @@
 		"result": "deny"
 	},
 	{
-		"mob": ["dannys_expansion:hollow_armor", "dannys_expansion:desertic_slime", "dannys_expansion:magma_slime", "dannys_expansion:mundane_slime"],
+		"mob": ["restored_earth:viler_witch", "dannys_expansion:hollow_armor", "dannys_expansion:desertic_slime", "dannys_expansion:magma_slime", "dannys_expansion:mundane_slime"],
 		"random": 0.7,
 		"result": "deny"
 	},
 	{
-		"mob": ["bloodandmadness:beast_patient", "bloodandmadness:cloaked_beast_patient", "bloodandmadness:ashen_blood_beast_patient"],
+		"mob": ["restored_earth:skeleton_wolf", "bloodandmadness:beast_patient", "bloodandmadness:cloaked_beast_patient", "bloodandmadness:ashen_blood_beast_patient"],
 		"random": 0.88,
 		"result": "deny"
 	},

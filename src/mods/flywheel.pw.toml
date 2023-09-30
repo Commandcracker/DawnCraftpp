@@ -1,11 +1,11 @@
 name = "Flywheel"
-filename = "flywheel-forge-1.18.2-0.6.9-101.jar"
+filename = "flywheel-forge-1.18.2-0.6.10-105.jar"
 side = "both"
 
 [download]
-url = "https://maven.tterrag.com/com/jozufozu/flywheel/flywheel-forge-1.18.2/0.6.9-101/flywheel-forge-1.18.2-0.6.9-101.jar"
+url = "https://maven.tterrag.com/com/jozufozu/flywheel/flywheel-forge-1.18.2/0.6.10-105/flywheel-forge-1.18.2-0.6.10-105.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "be792936354f799985ce06d1a61d686aa1950d83ed82ba2d790525285a074d62"
+hash = "d4b5a546b70efe270a1774efbeba6c320872c98f5c1418ef88f2d63fe323477a"
